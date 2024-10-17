@@ -120,6 +120,8 @@ ul.menu li a:hover , ul.menu li.current a {color:#0fc6ee; text-shadow:#68dcf6 0 
 .sub-page {background:#e2e2e4; overflow:hidden;}
 .sub-page-left {border:#fff 1px solid; border-bottom:none; float:left; width:610px; padding:29px 39px 0px 39px;}
 .sub-page-right {background:#1c1c1c; float:right; width:190px; padding:30px 40px 40px 40px; color:#9f9fa6;}
+.sub-page-right2 {background:#1c1c1c; float:right; width:100%;  color:#9f9fa6;}
+
 .sub-page-right h2 {color:#e2e2e4;}
 .box-4 {overflow:hidden; text-transform:uppercase; margin:13px 0 23px 0;}
 .box-4 >div {float:left; width:190px; margin-right:20px;}
